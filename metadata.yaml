@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34343#The-Betrothal--13-A-Sequel-to-the-Blue-Bird--A-Fairy-Play-in-Five-Acts-and-Eleven-Scenes
 gutenberg_issued: '2010-11-16'
 gutenberg_type: Text
 identifiers:
